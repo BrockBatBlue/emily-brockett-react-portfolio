@@ -8,19 +8,30 @@
     color: #d2f2e9;
     justify-content: space-between;
     position: fixed;
+    font-family: 'Outfit', sans-serif;
 }
 #header p {
     color: #d2f2e9;
+    font-family: 'Outfit', sans-serif;
+    font-weight:450;
 }
 #header a:hover {
     color: #ffffff !important;
 }
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
     color: #ffffff !important;
+    font-family: 'Outfit', sans-serif;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 .navbar a {
     color: #ffffff !important;
     text-decoration: none;
+    font-family: 'Outfit', sans-serif;
+    font-size: 22px;
 }
 #logo a {
     text-decoration: none;
@@ -31,18 +42,24 @@
     flex-direction: row;
     margin: 0;
 }
+nav ul li:hover {
+    background-color: #b7eadc;
+}
 li {
     list-style-type: none;
 }
-
+ul.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
 .icons li a {
     color: #b7eadc;
     text-decoration: none;
+    font-size: 25px;
 }
-.icons li {
-    display: flex;
-    flex-direction: column;
-}
+
 header .avatar img {
     margin-top: 5vh;
     max-width: 15vw;

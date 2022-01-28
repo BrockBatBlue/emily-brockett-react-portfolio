@@ -8,10 +8,7 @@ function Footer() {
             <div className="container">
                 <div className="col-12">
                     <ul className="copyright">
-                        <li>&copy; Untitled. All rights reserved.</li>
-                        <li>
-                            Design: <a href="http://html5up.net">HTML5 UP</a>
-                        </li>
+                        <li>Made with 💖 by Emily Brockett</li>
                     </ul>
                 </div>
             </div>

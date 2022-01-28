@@ -4,7 +4,7 @@ import "../Styles/Navbar.css";
 function Navbar() {
     return (
         <section id="header">
-            <div className="container-lg">
+            <div className="container">
                 <div className="col-12">
                     <header>
                         <span className="image avatar">
