@@ -1,5 +1,7 @@
 import React from "react";
 import "../Styles/MainPage.css";
+import Card from "./Card";
+import cards from "../portfolio.json";
 
 function MainPage() {
     return (
@@ -53,11 +55,11 @@ function MainPage() {
                     <div className="col-8 container">
                         <h3>Things I Can Do</h3>
                         <p>
-                            Integer eu ante ornare amet commetus vestibulum
-                            blandit integer in curae ac faucibus integer non.
-                            Adipiscing cubilia elementum integer lorem ipsum
-                            dolor sit amet.
+                            Here is a list of frameworks, languages, and
+                            applications I use to create fulls tack and
+                            front-end web apps:
                         </p>
+                        <br></br>
                         <ul className="feature-skills">
                             <li>Handlebars</li>
                             <li>Bootstrap</li>
@@ -91,51 +93,23 @@ function MainPage() {
                     <div className="col-8 container">
                         <h3>A Few Accomplishments</h3>
                         <p>
-                            Integer eu ante ornare amet commetus vestibulum
-                            blandit integer in curae ac faucibus integer non.
-                            Adipiscing cubilia elementum integer. Integer eu
-                            ante ornare amet commetus.
+                            Here are some apps, full stack and frontend I've
+                            worked on.
                         </p>
                         <div className="features">
-                            <article>
-                                <a href="#" className="image">
-                                    <img src="images/pic01.jpg" alt="" />
-                                </a>
-                                <div className="inner">
-                                    <h4>Possibly broke spacetime</h4>
-                                    <p>
-                                        Integer eu ante ornare amet commetus
-                                        vestibulum blandit integer in curae ac
-                                        faucibus integer adipiscing ornare amet.
-                                    </p>
-                                </div>
-                            </article>
-                            <article>
-                                <a href="#" className="image">
-                                    <img src="images/pic02.jpg" alt="" img />
-                                </a>
-                                <div className="inner">
-                                    <h4>Terraformed a small moon</h4>
-                                    <p>
-                                        Integer eu ante ornare amet commetus
-                                        vestibulum blandit integer in curae ac
-                                        faucibus integer adipiscing ornare amet.
-                                    </p>
-                                </div>
-                            </article>
-                            <article>
-                                <a href="#" className="image">
-                                    <img src="images/pic03.jpg" alt="" />
-                                </a>
-                                <div className="inner">
-                                    <h4>Snapped dark matter in the wild</h4>
-                                    <p>
-                                        Integer eu ante ornare amet commetus
-                                        vestibulum blandit integer in curae ac
-                                        faucibus integer adipiscing ornare amet.
-                                    </p>
-                                </div>
-                            </article>
+                            {cards.map((card) => {
+                                return (
+                                    <Card
+                                        key={card.id}
+                                        image={card.image}
+                                        title={card.title}
+                                        description={card.description}
+                                        deployedUrl={card.deployedUrl}
+                                        deployedTitle={card.deployedTitle}
+                                        repoUrl={card.repoUrl}
+                                    />
+                                );
+                            })}
                         </div>
                     </div>
                 </section>

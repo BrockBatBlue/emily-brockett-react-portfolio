@@ -1,0 +1,11 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 100%;
+    background-color: #fbf7f5;
+}
+.img-fluid {
+   width: 100%;
+}

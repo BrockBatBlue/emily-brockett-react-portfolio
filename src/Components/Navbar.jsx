@@ -18,12 +18,14 @@ function Navbar() {
                                 Emily Brockett
                             </a>
                         </h1>
+                        <br></br>
                         <p>
                             I got reprogrammed by a rogue AI
                             <br />
                             and now I'm totally cray
                         </p>
                     </header>
+                    <br></br>
                     <nav id="nav" className="navbar">
                         <ul>
                             <li>
@@ -42,6 +44,7 @@ function Navbar() {
                             </li>
                         </ul>
                     </nav>
+                    <br></br>
                     <footer className="icon-footer">
                         <ul className="icons">
                             <li>
