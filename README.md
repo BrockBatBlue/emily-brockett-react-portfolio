@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# Portfolio from Emily Brockett
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This portfolio uses React, Bootstrap, JavaScript, CSS, and HTML
 
-## Available Scripts
+## Contents
 
-In the project directory, you can run:
+This app links to other apps I've made.
+
 
 ### `npm start`
 
