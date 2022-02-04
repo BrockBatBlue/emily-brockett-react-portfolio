@@ -17,6 +17,7 @@ function Card(props) {
                         <div className="card-body">
                             <h5 className="card-title">{props.title}</h5>
                             <p className="card-text">{props.description}</p>
+                            <br />
                             <a href={props.deployedUrl} className="card-link">
                                 {props.deployedTitle}
                             </a>

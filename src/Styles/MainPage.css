@@ -38,6 +38,7 @@ p {
     font-family: 'Outfit', sans-serif;
     color:#6c757d;
     margin-bottom: 0 !important;
+    font-size: 18px;
 }
 ul.feature-skills {
     display: flex;
@@ -46,6 +47,8 @@ ul.feature-skills {
     justify-content: space-between;
     gap: 25px;
 }
-li {
+ul.feature-skills li {
     color:#014f86;
+    font-size: 20px;
+    font-weight: 500;
 }

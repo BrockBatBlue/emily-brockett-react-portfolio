@@ -20,9 +20,9 @@ function Navbar() {
                         </h1>
                         <br></br>
                         <p>
-                            I got reprogrammed by a rogue AI
+                            Currently teaching front-end
                             <br />
-                            and now I'm totally cray
+                            web development
                         </p>
                     </header>
                     <br></br>

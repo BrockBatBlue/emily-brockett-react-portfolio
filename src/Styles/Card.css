@@ -8,4 +8,17 @@
 }
 .img-fluid {
    width: 100%;
+   justify-content: center;
+   margin-top: 2vh;
+}
+.card-title {
+    color:#4acaa8;
+    font-size: x-large;
+}
+.card-link {
+    justify-content: space-between;
+    text-decoration: none;
+    color:#014f86;
+    font-weight: bold;
+    font-size: 16px;
 }
