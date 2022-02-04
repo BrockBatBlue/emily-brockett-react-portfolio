@@ -39,9 +39,9 @@ function Navbar() {
                             <li>
                                 <a href="#three">A Few Accomplishments</a>
                             </li>
-                            <li>
+                            {/* <li>
                                 <a href="#four">Blog</a>
-                            </li>
+                            </li> */}
                         </ul>
                     </nav>
                     <br></br>

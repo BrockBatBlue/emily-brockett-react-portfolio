@@ -113,24 +113,22 @@ function MainPage() {
                         </div>
                     </div>
                 </section>
-                <hr className="container"></hr>
+                {/* <hr className="container"></hr> */}
                 {/* Four */}
                 <section id="four">
-                    <div className="col-8 container">
+                    {/* <div className="col-8 container">
                         <h3>My Blog</h3>
                         <p>
                             Integer eu ante ornare amet commetus vestibulum
                             blandit integer in curae ac faucibus integer non.
                             Adipiscing cubilia elementum integer. Integer eu
                             ante ornare amet commetus.
-                        </p>
-                        <p>
-                            Integer eu ante ornare amet commetus vestibulum
-                            blandit integer in curae ac faucibus integer non.
-                            Adipiscing cubilia elementum integer. Integer eu
-                            ante ornare amet commetus.
-                        </p>
-                    </div>
+                        </p> */}
+                    <p id="additions">
+                        More will come! Keep an eye out for additions to the
+                        portfolio and page ✨
+                    </p>
+                    {/* </div> */}
                 </section>
             </div>
         </div>
