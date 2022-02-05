@@ -35,17 +35,14 @@ function MainPage() {
                             </h4>
                         </header>
                         <p>
-                            It is hard to describe ones self when one's
-                            complexities are too common and too close to
-                            understand in full. I am in many ways a hobbyist:
-                            anxious and restless by nature. I have lived many
-                            lives as a horse trainer, writer, nursing assistant,
-                            college student with B.S. in Biology while majoring
-                            in Literature, literature teacher, gardening
-                            enthusiast, video game enthusiast, full-stack web
-                            developer, front-end web developer teacher, and
-                            traveler. Each has its own chapter both sequestered
-                            and fluid.
+                            I am in many ways a hobbyist: active and restless by
+                            nature. I have lived many lives as a horse trainer,
+                            writer, nursing assistant, college student with B.S.
+                            in Biology while majoring in Literature, literature
+                            teacher, gardening enthusiast, video game
+                            enthusiast, full-stack web developer, front-end web
+                            developer teacher, and traveler. Each has its own
+                            chapter both sequestered and fluid.
                         </p>
                     </div>
                 </section>
