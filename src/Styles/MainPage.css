@@ -10,7 +10,7 @@ img.main-image {
 
 header h4 {
     padding-left: 2vw;
-    font-size:45px;
+    font-size:clamp(15px, 45px, 55px);
 }
 
 hr {
