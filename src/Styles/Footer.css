@@ -1,9 +1,9 @@
 #footer {
-    display: flex;
-    flex-direction: row;
-    padding-top: 10px;
-    padding-left: 20vw;
-    text-align: center;
-    background-color: #f9f1f1;
-    height: 5vh;
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+  padding-left: 20vw;
+  text-align: center;
+  background-color: #4acaa8;
+  height: 5vh;
 }

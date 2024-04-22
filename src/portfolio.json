@@ -31,7 +31,6 @@
     "image": "images/handshakeHome.jpg",
     "title": "Handshake",
     "description": "This is an application focused on local businesses that might not have the ability to get their services noticed the way big companies can. This app allows small service businesses to add their information, get reviews, and connect with their community. This also gives clients the opportunity to find more affordable and local services right in their neighborhood. This is a full stack application. Used HTML, CSS, Bootstrap CSS, Google fonts, JavaScript, jQuery, Express, Express-handlebars, and MySql",
-    "deployedUrl": "https://handshake-service-app.herokuapp.com/",
     "deployedTitle": "Handshake",
     "repoUrl": "https://github.com/BrockBatBlue/Project_2"
   },
@@ -49,7 +48,6 @@
     "image": "images/GamerDashLogin.jpg",
     "title": "Gamer Dash",
     "description": "This app pulls from a library of video games and also the community can upload their own personal video games themselves. This is a full stack React application. Used React, AntD CSS, Node, MongoDB, Express, Passport, and JavaScript.",
-    "deployedUrl": "http://gamer-dash.herokuapp.com/",
     "deployedTitle": "Gamer Dash",
     "repoUrl": "https://github.com/hoffman1200/Project3"
   }
