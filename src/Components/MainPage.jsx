@@ -94,7 +94,6 @@ function MainPage() {
                     image={card.image}
                     title={card.title}
                     description={card.description}
-                    deployedTitle={card.deployedTitle}
                     repoUrl={card.repoUrl}
                   />
                 );
