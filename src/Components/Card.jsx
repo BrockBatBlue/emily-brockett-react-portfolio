@@ -18,7 +18,12 @@ function Card(props) {
               <h5 className="card-title">{props.title}</h5>
               <p className="card-text">{props.description}</p>
               <br />
-              <a href={props.repoUrl} className="card-link">
+              <a
+                href={props.repoUrl}
+                className="card-link"
+                target="_blank"
+                rel="noreferrer noopener"
+              >
                 Github Page
               </a>
             </div>

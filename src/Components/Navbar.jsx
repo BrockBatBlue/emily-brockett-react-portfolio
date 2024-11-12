@@ -16,24 +16,24 @@ function Navbar() {
               </h1>
               <br></br>
               <p>
-                Currently teaching front-end
+                Currently building
                 <br />
-                web development
+                React Three Fiber apps
               </p>
             </header>
             <br></br>
             <nav id="nav" className="navbar collapse navbar-collapse">
               <ul>
                 <li>
-                  <a href="#one" className="active">
+                  <a href="#about" className="active">
                     About
                   </a>
                 </li>
                 <li>
-                  <a href="#two">Things I Can Do</a>
+                  <a href="#things">Things I Can Do</a>
                 </li>
                 <li>
-                  <a href="#three">A Few Accomplishments</a>
+                  <a href="#accomplishments">A Few Accomplishments</a>
                 </li>
                 {/* <li>
                                 <a href="#four">Blog</a>

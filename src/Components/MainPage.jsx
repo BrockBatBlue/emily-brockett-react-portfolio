@@ -20,7 +20,7 @@ function MainPage() {
         </header>
         <br></br>
         {/* One */}
-        <section id="one">
+        <section id="about">
           <div className="col-8 container">
             <header className="major">
               <h2>I am a </h2>
@@ -44,7 +44,7 @@ function MainPage() {
         </section>
         <hr className="container"></hr>
         {/* Two */}
-        <section id="two">
+        <section id="things">
           <div className="col-8 container">
             <h3>Things I Can Do</h3>
             <p>
@@ -88,7 +88,7 @@ function MainPage() {
         </section>
         <hr className="container"></hr>
         {/* Three */}
-        <section id="three">
+        <section id="accomplishments">
           <div className="col-8 container">
             <h3>A Few Accomplishments</h3>
             <p>Here are some apps, full stack and frontend I've worked on.</p>
