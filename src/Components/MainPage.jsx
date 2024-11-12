@@ -53,18 +53,24 @@ function MainPage() {
             </p>
             <br></br>
             <ul className="feature-skills">
-              <li>Handlebars</li>
-              <li>Bootstrap</li>
-              <li>CSS</li>
-              <li>Sass</li>
-              <li>HTML5</li>
-              <li>JavaScript</li>
-              <li>Node</li>
               <li>React</li>
+              <li>React Three Drei</li>
+              <li>React Three Use-Cannon</li>
+              <li>React Three leva</li>
+              <li>React Three Postprocessing</li>
+              <li>React Three Fiber</li>
+              <li>JavaScript</li>
+              <li>ThreeJS</li>
+              <li>Tailwind</li>
+              <li>Flexbox</li>
+              <li>Sass/SCSS</li>
+              <li>CSS</li>
+              <li>HTML5</li>
+              <li>Node</li>
+              <li>Bootstrap</li>
               <li>jQuery</li>
               <li>React Router</li>
               <li>React-Toastify</li>
-              <li>Flexbox</li>
               <li>Git</li>
               <li>GitHub</li>
               <li>Visual Studio Code</li>
@@ -74,15 +80,9 @@ function MainPage() {
               <li>Mongoose</li>
               <li>Sequelize</li>
               <li>MySQL Workbench</li>
+              <li>Handlebars</li>
               <li>npm</li>
               <li>Express</li>
-              <li>React Three Fiber</li>
-              <li>ThreeJS</li>
-              <li>Tailwind</li>
-              <li>React Three Drei</li>
-              <li>React Three Use-Cannon</li>
-              <li>React Three leva</li>
-              <li>React Three Postprocessing</li>
             </ul>
           </div>
         </section>
@@ -119,8 +119,8 @@ function MainPage() {
                             ante ornare amet commetus.
                         </p> */}
           <p id="additions">
-            I've added more projects on LinkTree. Check them out. They're
-            getting pretty cool ✨
+            I've added more projects on GitHub. Check them out. They're getting
+            pretty cool ✨
           </p>
           {/* </div> */}
         </section>

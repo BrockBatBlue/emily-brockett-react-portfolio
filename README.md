@@ -4,7 +4,7 @@ This portfolio uses React, Bootstrap, JavaScript, CSS, and HTML
 
 ## Contents
 
-It's a portfolio of some of the projects I've worked on. I have more current projects on LinkTree; check 'em out. I hope you enjoy! I have more projects under construction in my GitHub repository page. I've been experimenting with React Three Fiber 3D applications. It's exciting stuff. 😎
+It's a portfolio of some of the projects I've worked on. I have more current projects on GitHub; check 'em out. I hope you enjoy! I've been experimenting with React Three Fiber 3D applications. It's exciting stuff. 😎
 
 ---
 
