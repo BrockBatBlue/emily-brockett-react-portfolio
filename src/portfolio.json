@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/images/car-mini-game.jpg",
+    "image": "/images/3d-sticky-note-app.jpg",
     "title": "3D Sticky Note App",
     "description": "This is a React Three Fiber app currently under construction. I will be updating this app continually, so keep an eye out. The app will be able to save your sticky note reminders in a physical place, so it's easier to remember later. Think mind palace. Used React, Threejs, React Three Fiber, React Three Drei, React Three Postprocessing, React Three Cannon, Vite, and JavaScript.",
     "deployedUrl": "",
