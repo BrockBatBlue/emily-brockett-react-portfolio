@@ -76,7 +76,13 @@ function MainPage() {
               <li>MySQL Workbench</li>
               <li>npm</li>
               <li>Express</li>
-              <li>Passport</li>
+              <li>React Three Fiber</li>
+              <li>ThreeJS</li>
+              <li>Tailwind</li>
+              <li>React Three Drei</li>
+              <li>React Three Use-Cannon</li>
+              <li>React Three leva</li>
+              <li>React Three Postprocessing</li>
             </ul>
           </div>
         </section>
@@ -112,10 +118,10 @@ function MainPage() {
                             Adipiscing cubilia elementum integer. Integer eu
                             ante ornare amet commetus.
                         </p> */}
-          {/* <p id="additions">
-            More will come! Keep an eye out for additions to the portfolio and
-            page ✨
-          </p> */}
+          <p id="additions">
+            I've added more projects on LinkTree. Check them out. They're
+            getting pretty cool ✨
+          </p>
           {/* </div> */}
         </section>
       </div>
